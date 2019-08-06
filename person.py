@@ -19,4 +19,4 @@ def person(first_name, last_name, age=''):
         person['age'] = age
     return person
 
-musician = person('jimi', 'hendrix', age=27)j
+musician = person('jimi', 'hendrix', age=27)
