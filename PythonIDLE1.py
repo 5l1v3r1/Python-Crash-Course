@@ -26,4 +26,3 @@ This wasn't so hard.
 >>> fullName = first + " " + last
 >>> print(fullName)
 Jason Vu
->>> 
