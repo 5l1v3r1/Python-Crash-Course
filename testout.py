@@ -1,7 +1,6 @@
 import random
 
 dice1 = random.randint(1,6)
-
 dice2 = random.randint(1,6)
 
 if dice1 == 1 & dice2 == 1:
